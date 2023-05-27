@@ -1,6 +1,6 @@
-# Brainfuck interpreter built in C
+# Brainfuck interpreter written in C
 
-This is a simple interpreter for the Brainfuck programming language (https://github.com/brain-lang/brainfuck/blob/master/brainfuck.md) built in C.
+This is a simple interpreter for the Brainfuck programming language (https://github.com/brain-lang/brainfuck/blob/master/brainfuck.md) written in C.
 
 ## Building
 ```bash
