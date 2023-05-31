@@ -58,7 +58,6 @@ void execute(char *filepath) {
       if (tape[memory_p] == 0) {
         size_t p = code_p;
         while (brackets > 0) {
-          printf("%d", brackets);
           if (p >= code_size) {
             fprintf(stderr, "ERROR: missing matching ']' at column %zu.\n",
                     code_p);
